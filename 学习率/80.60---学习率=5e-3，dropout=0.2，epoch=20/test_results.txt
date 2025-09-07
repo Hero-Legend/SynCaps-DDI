@@ -1,0 +1,12 @@
+Test Results:
+Confusion Matrix:
+[[4611  109    1    0    0]
+ [ 253  106    0    0    0]
+ [ 288   12    0    0    0]
+ [ 170   50    0    0    0]
+ [  93    3    0    0    0]]
+Accuracy: 0.828125
+Precision: 0.7851035467234765
+Recall: 0.828125
+F1 Score: 0.8060406269785945
+F1 Score per Class:
