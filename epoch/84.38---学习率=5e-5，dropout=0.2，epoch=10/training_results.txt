@@ -1,0 +1,70 @@
+Epoch 1/10, Train Loss: 0.5515, Train Acc: 0.8578, F1 Score: 0.8041
+Confusion Matrix:
+[[21682     5    15    24     7]
+ [ 1481     2     0     1     0]
+ [ 1160     0     0     1     0]
+ [  724     0     0     1     0]
+ [  177     0     0     0     0]]
+Epoch 2/10, Train Loss: 0.4848, Train Acc: 0.8590, F1 Score: 0.8262
+Confusion Matrix:
+[[21616    77     4    35     0]
+ [ 1397    81     0     5     0]
+ [ 1158     4     1     0     0]
+ [  705     2     0    18     0]
+ [  177     0     0     0     0]]
+Epoch 3/10, Train Loss: 0.4462, Train Acc: 0.8614, F1 Score: 0.8364
+Confusion Matrix:
+[[21528   111    25    63     3]
+ [ 1311   169     0     6     0]
+ [ 1139     6    14     3     0]
+ [  660     6     1    58     0]
+ [  168     2     1     0     6]]
+Epoch 4/10, Train Loss: 0.4050, Train Acc: 0.8683, F1 Score: 0.8515
+Confusion Matrix:
+[[21470   150    39    66     7]
+ [ 1166   308     4     5     2]
+ [ 1090    18    50     4     0]
+ [  626    10     1    87     0]
+ [  134     5     2     1    35]]
+Epoch 5/10, Train Loss: 0.3776, Train Acc: 0.8752, F1 Score: 0.8629
+Confusion Matrix:
+[[21432   168    42    82     5]
+ [ 1057   405    12    11     1]
+ [ 1023    30   104     5     1]
+ [  594    13     1   117     0]
+ [  101     8     1     0    67]]
+Epoch 6/10, Train Loss: 0.3539, Train Acc: 0.8787, F1 Score: 0.8667
+Confusion Matrix:
+[[21383   170    74   102     4]
+ [  972   477    21     9     4]
+ [  980    26   150     4     2]
+ [  584     8     2   131     0]
+ [   91     8     5     1    72]]
+Epoch 7/10, Train Loss: 0.3342, Train Acc: 0.8826, F1 Score: 0.8722
+Confusion Matrix:
+[[21369   166    84   105     6]
+ [  917   547    13     7     1]
+ [  958    35   168     2     0]
+ [  556    16     2   151     0]
+ [   91     6     2     1    77]]
+Epoch 8/10, Train Loss: 0.3160, Train Acc: 0.8890, F1 Score: 0.8809
+Confusion Matrix:
+[[21358   169    86   110     8]
+ [  834   625    12    13     1]
+ [  901    32   227     1     1]
+ [  528     8     3   186     0]
+ [   85     8     4     1    79]]
+Epoch 9/10, Train Loss: 0.2991, Train Acc: 0.8920, F1 Score: 0.8843
+Confusion Matrix:
+[[21351   172   106   100     5]
+ [  790   668    17    10     0]
+ [  882    25   251     3     0]
+ [  516     9     2   197     1]
+ [   81     9     1     1    83]]
+Epoch 10/10, Train Loss: 0.2878, Train Acc: 0.8953, F1 Score: 0.8882
+Confusion Matrix:
+[[21331   178   114   103     5]
+ [  731   730    12     8     3]
+ [  865    32   264     2     0]
+ [  494     8     0   221     2]
+ [   79     9     2     1    86]]
